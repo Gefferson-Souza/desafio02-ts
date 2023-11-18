@@ -1,4 +1,3 @@
-import './Header.css'
 import {
   Heading,
   Box,
